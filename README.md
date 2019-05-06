@@ -25,3 +25,5 @@ turns the Red Led ON.
 Note :
     1- The code build upon that the Arduino will be pulged in COM3 (USB).
     2- Don't open multiple IDE for the same code as the PORT COM3 will be busy.
+    3- The Pin 13 in Arduino is where you should connect your Led in the arduino.
+    
