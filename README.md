@@ -1,10 +1,10 @@
-# Plant Detector 
+Plant Detector 
 
 Team members:
 
- 1- Ahmad-Zakaria-Ali
+# Ahmad-Zakaria-Ali
 
- 2- Tarek-Ibrahim
+# Tarek-Ibrahim
 
 
 
@@ -23,7 +23,12 @@ turns the Red Led ON.
 
 
 Note :
-    1- The code build upon that the Arduino will be pulged in COM3 (USB).
-    2- Don't open multiple IDE for the same code as the PORT COM3 will be busy.
-    3- The Pin 13 in Arduino is where you should connect your Led in the arduino.
+     1- If will run the code without attaching the arduino, you Must delete the Arduino part in python code
     
+	   2- The code build upon that the Arduino will be pulged in COM3 (USB).
+
+	   3- Don't open multiple IDE for the same code as the PORT COM3 will be busy.
+    
+	   4- The Pin 13 in Arduino is where you should connect your Led in the arduino.
+        
+	   
