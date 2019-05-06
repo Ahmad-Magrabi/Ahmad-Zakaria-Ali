@@ -1,10 +1,10 @@
-Plant Detector 
+# Plant Detector 
 
 Team members:
 
-# Ahmad-Zakaria-Ali
+ Ahmad-Zakaria-Ali
 
-# Tarek-Ibrahim
+ Tarek-Ibrahim
 
 
 
@@ -23,6 +23,8 @@ turns the Red Led ON.
 
 
 Note :
+
+
            1- If you will run the code without attaching the arduino, you Must delete the Arduino part in python code or the code will 		      give you hard time.
     
 	   2- The code build upon that the Arduino will be pulged in COM3 (USB).
